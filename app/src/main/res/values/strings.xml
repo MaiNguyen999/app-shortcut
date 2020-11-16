@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shortcut</string>
+
+    <string name="shortlabel1">MainActivity</string>
+    <string name="longlabel1">Open MainActivity</string>
+    <string name="disabledmessage">Disabled</string>
+
+    <string name="shortlabel2">SecondActivity</string>
+    <string name="longlabel2">Open SecondActivity</string>
+    <string name="disabledmessage2">Disabled</string>
+</resources>
